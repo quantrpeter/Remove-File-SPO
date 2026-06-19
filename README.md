@@ -8,7 +8,7 @@ Short summary on functionality and used technologies.
 
 ![](/image/2.png)
 
-# How to debuilg
+# How to deploy
 
 use node 24
 
