@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://quantr.sharepoint.com/sites/backup/Backup",
+      "customActions": {
+        "b0673d85-343f-4960-845f-e901577475b0": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {}
+        }
+      }
+    },
+    "removeFilesSpo": {
+      "pageUrl": "https://quantr.sharepoint.com/sites/backup/Backup",
+      "customActions": {
+        "b0673d85-343f-4960-845f-e901577475b0": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "24.13.1",
+    "sdksVersions": {},
+    "version": "1.23.1",
+    "libraryName": "remove-file-spo",
+    "libraryId": "6efb92da-0e30-466c-829f-b582e51f9435",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "remove-file-spo",
+    "solutionShortDescription": "remove-file-spo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
