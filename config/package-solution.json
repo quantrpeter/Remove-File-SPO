@@ -1,9 +1,10 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "remove-file-spo-client-side-solution",
+    "name": "remove file spo",
     "id": "6efb92da-0e30-466c-829f-b582e51f9435",
-    "version": "1.0.0.0",
+    "version": "1.0.0.4",
+    "iconPath": "assets/appicon.png",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,

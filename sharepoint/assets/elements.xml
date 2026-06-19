@@ -8,4 +8,12 @@
         ClientSideComponentId="b0673d85-343f-4960-845f-e901577475b0"
         ClientSideComponentProperties="{&quot;sampleTextOne&quot;:&quot;One item is selected in the list.&quot;, &quot;sampleTextTwo&quot;:&quot;This command is always visible.&quot;}">
     </CustomAction>
+    <CustomAction
+        Title="RemoveFilesSpo"
+        RegistrationId="101"
+        RegistrationType="List"
+        Location="ClientSideExtension.ListViewCommandSet.CommandBar"
+        ClientSideComponentId="b0673d85-343f-4960-845f-e901577475b0"
+        ClientSideComponentProperties="{&quot;sampleTextOne&quot;:&quot;One item is selected in the list.&quot;, &quot;sampleTextTwo&quot;:&quot;This command is always visible.&quot;}">
+    </CustomAction>
 </Elements>
