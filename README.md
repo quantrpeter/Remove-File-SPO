@@ -1,8 +1,6 @@
 # remove-file-spo
 
-## Summary
-
-Short summary on functionality and used technologies.
+Find large and old files in your list or document library, and remove it
 
 ![](/image/1.png)
 
