@@ -10,7 +10,7 @@ Find large and old files in your list or document library, and remove it
 
 ## Download sppkg
 
-[](https://github.com/quantrpeter/Remove-File-SPO/releases)
+[https://github.com/quantrpeter/Remove-File-SPO/releases](https://github.com/quantrpeter/Remove-File-SPO/releases)
 
 then deploy your app catalog
 
