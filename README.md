@@ -8,6 +8,14 @@ Find large and old files in your list or document library, and remove it
 
 # How to deploy
 
+## Download sppkg
+
+[](https://github.com/quantrpeter/Remove-File-SPO/releases)
+
+then deploy your app catalog
+
+## Build it yourself
+
 use node 24
 
 ```
